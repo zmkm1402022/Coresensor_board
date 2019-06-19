@@ -130,6 +130,8 @@ void DMA1_Channel1_IRQHandler(void)
 /*
 1. calculate the voltage of infrared sensors
 2. unit: mV
+3. 
+
 */
 
 void Get_ADC_Value(void)
